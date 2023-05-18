@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/13v8n43xx3x06ahr?svg=true)](https://ci.appveyor.com/project/AntonMain/selenium-and-selenide-92vdn)
